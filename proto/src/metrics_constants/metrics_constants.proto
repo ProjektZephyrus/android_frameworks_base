@@ -7440,5 +7440,8 @@ message MetricsEvent {
 
     // Zephyrus Settings
     ZEPH_SETTINGS = 4000;
+
+    // Panel for Mobile Data
+    PANEL_MOBILE_DATA = 4002;
   }
 }
